@@ -105,7 +105,7 @@ sudo systemctl restart grafana-server
 ## Screenshots
 
 ### Grafana Dashboard
-![Grafana Dashboard](‎screenshots/5.png)
+![Grafana Dashboard](screenshots/5.png)
 
 ### Zabbix Monitoring Dashboard
 ![Zabbix Dashboard](‎screenshots/1.png)
