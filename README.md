@@ -117,7 +117,7 @@ sudo systemctl restart grafana-server
 ![Email Alert](screenshots/3.png)
 
 ### Email Alert1
-![Email Alert1](‎screenshots/4.png)
+![Email Alert1](screenshots/4.png)
 
 ## Author
 Mohamed abdelli
