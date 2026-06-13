@@ -105,19 +105,19 @@ sudo systemctl restart grafana-server
 ## Screenshots
 
 ### Grafana Dashboard
-![Grafana Dashboard](5.png)
+![Grafana Dashboard](screenshots/5.png)
 
 ### Zabbix Monitoring Dashboard
-![Zabbix Dashboard](1.png)
+![Zabbix Dashboard](screenshots/1.png)
 
 ### Zabbix Monitoring Hosts
-![Zabbix Hosts](6.png)
+![Zabbix Hosts](screenshots/6.png)
 
 ### Email Alert
-![Email Alert](3.png)
+![Email Alert](screenshots/3.png)
 
-### Email Alert1
-![Email Alert1](4.png)
+### Email Alert
+![Email Alert1](screenshots/4.png)
 
 ## Author
 Mohamed abdelli
