@@ -114,7 +114,7 @@ sudo systemctl restart grafana-server
 ![Zabbix Hosts](‎screenshots/6.png)
 
 ### Email Alert
-![Email Alert](‎screenshots/3.png)
+![Email Alert](screenshots/3.png)
 
 ### Email Alert1
 ![Email Alert1](‎screenshots/4.png)
